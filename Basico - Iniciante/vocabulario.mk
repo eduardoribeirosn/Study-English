@@ -19,11 +19,11 @@
 
 ## Days of the Week
 
-**Monday** = _Segunda_
-**Tuesday** = _Terça_
-**Wednesday** = _Quarta_
-**Thursday** = _Quinta_
-**Friday** = _Sexta_
+**Monday** = _Segunda-Feira_
+**Tuesday** = _Terça-Feira_
+**Wednesday** = _Quarta-Feira_
+**Thursday** = _Quinta-Feira_
+**Friday** = _Sexta-Feira_
 **Saturday** = _Sábado_
 **Sunday** = _Domingo_
 
@@ -64,6 +64,47 @@
 **Hundred** = _Cem_
 **Thousand** = _Mil_
 **Milion** = _Milhão_
+
+---
+
+## Family
+
+**Father** = _Pai_
+**Daddy** = _Papai_
+**Mother** = _Mãe_
+**Mommy** = _Mamãe_
+**Children** = _Filhos_
+**Son** = _Filho_
+**Daughter** = _Filha_
+**Brother** = _Irmão_
+**Sister** = _Irmã_
+**Brothers** = _Irmãos_
+**Stepfather** = _Padrasto_
+**Stepmother** = _Madastra_
+**Stepchildren** = _Enteados_
+**Stepson** = _Enteado_
+**Stepdaughter** = _Enteada_
+**Son-in-law** = _Genro_
+**Nora** = _Nora_
+**Father-in-law** = _Sogro_
+**Mother-in-law** = _Sogra_
+**Grandfather** = _Avô_
+**Grandmother** = _Avó_
+**Grandchildren** = _Netos_
+**Grandson** = _Neto_
+**Granddaughter** = _Neta_
+**Uncles** = _Tios_
+**Uncle** = _Tio_
+**Aunt** = _Tia_
+**Nephews** = _Sobrinhos_
+**Nephew** = _Sobrinho_
+**Niece** = _Sobrinha_
+**Counsins** = _Primos or Primas_
+**Counsin** = _Primo or Prima_
+**Great-Uncle** = _Tio Avô_
+**Great-Aunt** = _Tia Avó_
+**Great-Nephew** = _Sobrinho Neto_
+**Great-Niece** = _Sobrinha Neta_
 
 ---
 
